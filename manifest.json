@@ -1,0 +1,6 @@
+{
+  "name": "VoiceStatus",
+  "description": "Toont voice call status",
+  "authors": [{ "name": "JouwNaam", "id": "0" }],
+  "main": "index.js"
+}
